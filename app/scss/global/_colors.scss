@@ -1,0 +1,14 @@
+:root {
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-black: hsl(0, 0%, 0%);
+  --clr-grey-950: hsl(216, 12%, 8%);
+  --clr-grey-900: hsl(213, 19%, 18%);
+  --clr-grey-500: hsl(217, 12%, 63%);
+  --clr-orange-500: hsl(25, 97%, 53%);
+
+  --radial-gradient: radial-gradient(
+    circle,
+    hsl(215, 20%, 17%),
+    hsl(216, 24%, 12%)
+  );
+}
