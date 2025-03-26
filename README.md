@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/faq-accordion-sXNY5_sL_c)
 - Live Site URL: [Add live site URL here](https://adorable-bonbon-acea1c.netlify.app/)
 
 ## My process
