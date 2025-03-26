@@ -1,6 +1,6 @@
 @use '../util' as u;
 
 .wrapper {
-  width: min(100% - u.rem(32), u.rem(412));
+  width: min(100% - u.rem(32), u.rem(600));
   margin-inline: auto;
 }
